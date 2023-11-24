@@ -1,20 +1,15 @@
 # Weather-App-React-Native
 
-![Weather App Preview](https://cdn.dribbble.com/userupload/6958364/file/original-9ca93c2dd96a84d5364670135de826d4.png?resize=600x450)
+![Weather App Preview](https://cdn.dribbble.com/userupload/6958364/file/original-9ca93c2dd96a84d5364670135de826d4.png?resize=650x450)
 
 ## Preview the App
 
-### For Android Users
-1. Download the Expo app.
-2. Scan the QR code below to preview the app.
+### For Android Users                                                                              | For iOS Users
+-------------------------------------------                                                        | -----------------------------------------
+1. Download the Expo app.                                                                           | 1. Download the Expo app.
+2. Scan the QR code below to preview the app.                                                         | 2. Scan the QR code below to preview the app.
 
-   ![Android QR Code](https://res.cloudinary.com/dtbjxef3v/image/upload/v1700838264/android_qecrrw.png?resize=300x300)
-
-### For iOS Users
-1. Download the Expo app.
-2. Scan the QR code below to preview the app.
-
-   ![iOS QR Code](https://res.cloudinary.com/dtbjxef3v/image/upload/v1700838264/ios_ubbpzf.png?resize=300x300)
+   ![Android QR Code](https://res.cloudinary.com/dtbjxef3v/image/upload/c_fit,h_300,w_300/v1700838264/android_qecrrw.png) |                                                   ![iOS QR Code](https://res.cloudinary.com/dtbjxef3v/image/upload/c_fit,h_300,w_300/v1700838264/ios_ubbpzf.png)
 
 ## Getting Started
 
@@ -45,4 +40,3 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 <br />
 
 💙 If you like this project, give it a ⭐ and share it with friends!
-
