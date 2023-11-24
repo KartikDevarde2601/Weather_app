@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "WeatherApp",
+    "slug": "WeatherAppKartik",
+    "description": "Stay ahead of the weather with our intuitive and beautifully crafted WeatherApp. Designed using React Native, our app provides you with accurate and up-to-date weather information at your fingertips.",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1ae38f42-79fd-4daf-b93d-6c1111df2284"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/1ae38f42-79fd-4daf-b93d-6c1111df2284"
+    }
+  }
+}
